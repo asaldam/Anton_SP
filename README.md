@@ -1,17 +1,11 @@
-<a> <h1 align="center"> Лабораторная работ №3 и №4 </h1></a>
+<a> <h1 align="center"> Лабораторная работ №5 </h1></a>
 <br>
 <a> <h2 align="left"> Описание </h2></a>
 <br>
-В этой ветке пристутствуют 2 файла, main.py, Расписание.txt.
-<br>
-<br>
-Для нормальной работы скрипта, были использованы следующие библеотеки:
+В этой ветке присутствует 1 файл, lab5.py
 <br>
 <br>
 <br>
-<body>
-
-from bs4 import BeautifulSoup<br>
-import requests<br>
-
-</body>
+Установите и запустите lab.py
+<br>
+Проверьте скачался ли файл в "C:\Users\lukio\DocumentsСП"
