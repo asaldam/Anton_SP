@@ -1,10 +1,10 @@
 <div><h1 align="center">Cетевое программирование</h1></div>
 <div><h2 align="left">Информация</h2></div>
 <div>Для просмотра лабораторных работ: </div>
-<ul><div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№1"> работа №1</a></div>
-<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№2"> работа №2</a></div>
-<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№3-№4"> работа №3 и №4</a></div>
-<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№5"> работа №5</a></div>
+<ul><div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№1"> Лабораторная работа №1</a></div>
+<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№2"> Лабораторная работа №2</a></div>
+<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№3-№4"> Лабораторные работа №3 и №4</a></div>
+<div><a href="https://github.com/asaldam/Anton_SP/tree/Лабораторная-работа-№5"> Лабораторная работа №5</a></div>
 </ul>
 
 <h3>Библиотеки используемые в лабораторных работах:<h3>
